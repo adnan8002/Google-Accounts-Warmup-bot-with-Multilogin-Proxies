@@ -14,9 +14,10 @@
   <img align="center" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=Zeeshanahmad4.Zeeshanahmad4)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
+![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A)
+
 </div>
-![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
 <!-- ⭐ Star us on GitHub — it motivates us a lot!
