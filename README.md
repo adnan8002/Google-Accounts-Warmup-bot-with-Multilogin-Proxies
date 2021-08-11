@@ -16,7 +16,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Zeeshanahmad4.Zeeshanahmad4)
 </div>
-
+![](https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=github-visitors-badge&countColor=%237B1E7A)
 
 
 <!-- ⭐ Star us on GitHub — it motivates us a lot!
