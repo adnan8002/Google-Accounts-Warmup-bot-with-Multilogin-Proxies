@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://discord.gg/XTW52Kt">
-  <img style="margin-right: 150px" align="center" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img style="margin-right: 50px;" align="center" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>. 
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
