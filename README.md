@@ -64,6 +64,10 @@
 ![Shallow Backup GIF Demo](Demo.gif)
 </div>
 
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+  <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://github.com/Zeeshanahmad4/Google-Accounts-Warmup-Automation-bot-with-Multilogin-and-Proxies/blob/main/Demo.gif" />
+</a>
+
 <div align="center">
   <sub>This bot is build to do reverse engineering on google services inspired by documentary 
   <a href="https://www.thesocialdilemma.com/">The Social Dilemma</a> with ❤︎
