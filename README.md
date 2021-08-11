@@ -60,12 +60,12 @@
 </p>
 
 <div align="center">
-  <sub>This bot is build to do reverse engnerring on google system inspired by documentary 
+  <sub>This bot is build to do reverse engineering on google services inspired by documentary 
   <a href="https://www.thesocialdilemma.com/">The Social Dilemma</a> with ❤︎
-    
   </a>
+	⭐ Star us on GitHub — it motivates us a lot!
 </div>
-<!-- ⭐ Star us on GitHub — it motivates us a lot!
+<!-- 
 The Bot is for Warming up and using Google Accounts using multilogin. Bot can automate all the actions of google user so facebook algorithm can know that the Profiles are active. This Bot already warmed up more than 15000 Facebook profiles using Multilogin.
 
 
