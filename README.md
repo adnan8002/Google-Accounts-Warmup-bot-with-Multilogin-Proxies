@@ -11,6 +11,6 @@ The Bot is for Warming up and using Google Accounts using multilogin. Bot can au
 
   
   <a href="https://npmjs.org/package/choo">
-  <img src="https://img.shields.io/static/v1?label=zee&color=yellow"
+  <img src="https://img.shields.io/static/v1?label=zee&message=<>&color=<COLOR>"
     alt="Download" />
 </a>
