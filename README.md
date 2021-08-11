@@ -22,7 +22,7 @@
 
 <div align="center">
   <a href="https://multilogin.com/">
-  <img  align="center" alt="Multilogin" width="150px" src="https://img.shields.io/badge/%20-Multilogin-darkblue.svg?style=flat-square" />
+  <img  align="center" alt="Multilogin" width="100px" src="https://img.shields.io/badge/%20-Multilogin-darkblue.svg?style=flat-square" />
 </a>
   <span> | </span>
 <a href="https://incogniton.com/">
