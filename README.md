@@ -19,7 +19,7 @@
 </div>
 
 <div align="center">
-  This bot can be use with other anti-detect browser apps like. 
+  This bot can be use with other anti-detect browser apps like👆👆👆. 
 </div>
 
 <br />
