@@ -15,7 +15,7 @@
 </a>
 
   <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="center" alt="Abhishek's Spotify" width="50px" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" />
+  <img align="center" alt="Abhishek's Spotify" width="100px" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" />
 </a>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
