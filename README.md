@@ -78,29 +78,25 @@
 	<br />
 	⭐ Star us on GitHub — it motivates us a lot!
 </div>
-<!--
 
 
 ## Key Features
 
-* LivePreview - Make changes, See changes
-  - Instantly see what your Markdown documents look like in HTML as you create them.
-* Sync Scrolling
-  - While you type, LivePreview will automatically scroll to the current location you're editing.
-* GitHub Flavored Markdown  
-* Syntax highlighting
-* [KaTeX](https://khan.github.io/KaTeX/) Support
-* Dark/Light mode
-* Toolbar for basic Markdown formatting
-* Supports multiple cursors
-* Save the Markdown preview as PDF
-* Emoji support in preview :tada:
-* App will keep alive in tray for quick usage
-* Full screen mode
-  - Write distraction free.
-* Cross platform
-  - Windows, macOS and Linux ready.
+* Multilogin profile creation
+* Work with mobile and desktop profiles
+* Google login with Credentials 
+* Can warmup Upto 10k Accounts
+* Visiting different websites for caches.
+* Random wait between actions
+* Scrolling like humans
+* Search random keywords on google 
+* visit google maps and visit listing
+* View photos on google maps listing
+* Read reviews from google maps lisiting 
+* Ask random question from google listing
 
+ 
+<!--
 ## How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
