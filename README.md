@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://discord.gg/XTW52Kt">
-  <img  align="center" alt="Abhishek's Discord" src="https://img.shields.io/badge/multilogin-%20-green" />
+  <img  align="center" alt="Abhishek's Discord" src="https://img.shields.io/badge/multilogin-%20-blue" />
 </a>
   
 <a href="https://twitter.com/abhisheknaiidu">
