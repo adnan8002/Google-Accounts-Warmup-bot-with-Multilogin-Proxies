@@ -4,6 +4,7 @@
   <a href="https://discord.gg/XTW52Kt" style="margin-top: 20px;">
   <img  align="center" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+  
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
@@ -20,19 +21,14 @@
 
 
 <div align="center">
-  <a href="https://discord.gg/XTW52Kt">
-  <img  align="center" alt="Abhishek's Discord" src="https://img.shields.io/badge/%20-Multilogin-darkblue.svg?style=flat-square" />
+  <a href="https://multilogin.com/">
+  <img  align="center" alt="Multilogin" src="https://img.shields.io/badge/%20-Multilogin-darkblue.svg?style=flat-square" />
 </a>
+<a href="https://incogniton.com/">
+  <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Incogniton-violet.svg?style=flat-square" />
+  </a>
   
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-  
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
-<!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
+
 </div>
 
     
