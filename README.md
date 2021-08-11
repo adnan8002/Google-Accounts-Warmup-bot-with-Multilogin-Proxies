@@ -60,8 +60,9 @@
   <a href="#license">License</a>
 </p>
 
+<div align="center">
 ![Shallow Backup GIF Demo](Demo.gif)
-
+</div>
 
 <div align="center">
   <sub>This bot is build to do reverse engineering on google services inspired by documentary 
