@@ -2,20 +2,13 @@
 
 <div align="center">
   <a href="https://discord.gg/XTW52Kt">
-  <img align="center" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+  <img style="margin-right: 150px" align="center" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>. 
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="center" alt="Abhishek's Spotify" width="22px" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" />
-</a>
-
-  <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="center" alt="Abhishek's Spotify" width="100px" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" />
 </a>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
