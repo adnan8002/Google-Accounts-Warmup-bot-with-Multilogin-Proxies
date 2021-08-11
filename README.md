@@ -83,10 +83,11 @@
 ## Key Features
 
 * Multilogin profile creation
+* Proxies input
 * Work with mobile and desktop profiles
 * Google login with credentials 
 * Can warmup upto 10k accounts
-* Visiting different websites for caches.
+* Visiting different websites for caches
 * Random wait between actions
 * Scrolling like humans
 * Search random keywords on google 
@@ -96,7 +97,32 @@
 * Ask random question from google listing
 * visits google my bussiness
 
- 
+
+ ## Prerequisites  
+* Multilogin automation plan
+* Residential or mobile quality proxies
+* Python
+* Selenium
+* I would suggest an external RDP but you can run this bot on your local machine too. 
+
+
+### Prerequisites
+
+### Installation
+1. Clone the repo
+```sh
+git clone https://github.com/Zeeshanahmad4/Google-Accounts-Warmup-Automation-bot-with-Multilogin-and-Proxies.git
+```
+
+2. Install python and python packages
+```sh
+pip install selenium,request
+```
+3.Adding Proxies and Accounts
+```sh
+You can 
+```
+
 <!--
 ## How To Use
 
