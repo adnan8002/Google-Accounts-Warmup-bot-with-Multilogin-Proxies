@@ -20,12 +20,14 @@
 
 
 <div align="center">
-  <a href="https://discord.gg/XTW52Kt" style="margin-top: 20px;">
-  <img  align="center" alt="Abhishek's Discord" width="22px" src="https://img.shields.io/badge/multilogin-%20-green" />
+  <a href="https://discord.gg/XTW52Kt">
+  <img  align="center" alt="Abhishek's Discord" width="50px" src="https://img.shields.io/badge/multilogin-%20-green" />
 </a>
+  
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="center" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
+  
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
