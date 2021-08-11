@@ -50,15 +50,7 @@
 
 <br />
 
-</div>
-<div align="center">
-  This bot can be use with other anti-detect browser apps like👆👆👆. <br />
-	  <a href="https://multilogin.com/">
-  <img  align="center" alt="Multilogin" width="100px" src="https://img.shields.io/badge/%20-Multilogin-darkblue.svg?style=flat-square" />
-</a>
-</div>
 
-<br />
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
