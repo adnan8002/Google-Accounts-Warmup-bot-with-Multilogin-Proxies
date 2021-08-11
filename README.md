@@ -24,19 +24,19 @@
   <a href="https://multilogin.com/">
   <img  align="center" alt="Multilogin" src="https://img.shields.io/badge/%20-Multilogin-darkblue.svg?style=flat-square" />
 </a>
-  
+  <span> | </span>
 <a href="https://incogniton.com/">
   <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Incogniton-violet.svg?style=flat-square" />
   </a>
-
+<span> | </span>
   <a href="https://gologin.com/">
   <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Gologin-greenwhite.svg?style=flat-square" />
   </a>
-
+<span> | </span>
   <a href="https://indigobrowser.com/">
   <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Indigo-purple.svg?style=flat-square" />
   </a>
-
+<span> | </span>
  <a href="https://us.vmlogin.com/">
   <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Vmlogin-white.svg?style=flat-square" />
   </a>
