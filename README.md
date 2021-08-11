@@ -118,10 +118,10 @@ git clone https://github.com/Zeeshanahmad4/Google-Accounts-Warmup-Automation-bot
 ```sh
 pip install selenium,request
 ```
-3.Adding Proxies and Accounts in Files/proxies and accounts
-Proxies Fromat, 
+3.Adding proxies and accounts in Files/proxies and accounts <br />
+#### Proxies Fromat <br />
 <code>ip:port:username:password</code>
-Accounts format
+#### Accounts format <br />
 <code>email,password:recovery email</code>
 
 <!--
