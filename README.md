@@ -84,8 +84,8 @@
 
 * Multilogin profile creation
 * Work with mobile and desktop profiles
-* Google login with Credentials 
-* Can warmup Upto 10k Accounts
+* Google login with credentials 
+* Can warmup upto 10k accounts
 * Visiting different websites for caches.
 * Random wait between actions
 * Scrolling like humans
@@ -94,6 +94,7 @@
 * View photos on google maps listing
 * Read reviews from google maps lisiting 
 * Ask random question from google listing
+* visits google my bussiness
 
  
 <!--
