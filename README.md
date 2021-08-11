@@ -65,6 +65,10 @@
   <a href="https://www.thesocialdilemma.com/">The Social Dilemma</a> with ❤︎
   </a>
 	<br />
+	  <sub>For more bots and tools like that visit our website  
+  <a href="https://mlaautomation.com/">The Social Dilemma</a>
+  </a>
+	<br />
 	⭐ Star us on GitHub — it motivates us a lot!
 </div>
 <!-- 
