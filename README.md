@@ -72,7 +72,7 @@
   <a href="https://www.thesocialdilemma.com/">The Social Dilemma</a> with ❤︎
   </a>
 	<br />
-	  <sub>For more bots and tools like that visit our website  
+	  <sub>For full video demo and more bots, tools like this visit our website  
   <a href="https://mlaautomation.com/">Mla Automation</a>
   </a>
 	<br />
