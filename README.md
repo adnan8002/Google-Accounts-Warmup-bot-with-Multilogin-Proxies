@@ -59,11 +59,13 @@
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="center" alt="Abhishek's LinkedIN" src="https://github.com/Zeeshanahmad4/Google-Accounts-Warmup-Automation-bot-with-Multilogin-and-Proxies/blob/main/Demo.gif" />
+  <img align="center" alt="Abhishek's LinkedIN" width="500px" src="https://github.com/Zeeshanahmad4/Google-Accounts-Warmup-Automation-bot-with-Multilogin-and-Proxies/blob/main/Demo.gif" />
 </a>
 </div>
+
 
 <div align="center">
   <sub>This bot is build to do reverse engineering on google services inspired by documentary 
