@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://indigobrowser.com/">
-  <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Indigo-darkviolet.svg?style=flat-square" />
+  <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Indigo-purple.svg?style=flat-square" />
   </a>
 
  <a href="https://us.vmlogin.com/">
