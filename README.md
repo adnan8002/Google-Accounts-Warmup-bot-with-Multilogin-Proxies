@@ -63,6 +63,7 @@
   <sub>This bot is build to do reverse engineering on google services inspired by documentary 
   <a href="https://www.thesocialdilemma.com/">The Social Dilemma</a> with ❤︎
   </a>
+	<br />
 	⭐ Star us on GitHub — it motivates us a lot!
 </div>
 <!-- 
