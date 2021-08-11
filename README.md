@@ -33,12 +33,12 @@
   <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Gologin-greenwhite.svg?style=flat-square" />
   </a>
 
-  <a href="https://incogniton.com/">
-  <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Incogniton-violet.svg?style=flat-square" />
+  <a href="https://indigobrowser.com/">
+  <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Indigo-darkviolet.svg?style=flat-square" />
   </a>
 
- <a href="https://incogniton.com/">
-  <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Incogniton-violet.svg?style=flat-square" />
+ <a href="https://us.vmlogin.com/">
+  <img  align="center" alt="Incogniton" src="https://img.shields.io/badge/%20-Vmlogin-white.svg?style=flat-square" />
   </a>
   
 </div>
