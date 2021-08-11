@@ -50,6 +50,14 @@
 
 <br />
 
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
 <!-- ⭐ Star us on GitHub — it motivates us a lot!
 The Bot is for Warming up and using Google Accounts using multilogin. Bot can automate all the actions of google user so facebook algorithm can know that the Profiles are active. This Bot already warmed up more than 15000 Facebook profiles using Multilogin.
 
