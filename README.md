@@ -2,15 +2,15 @@
 
 <div align="center">
   <a href="https://discord.gg/XTW52Kt" style="margin-top: 20px;">
-  <img  align="center" alt="Abhishek's Discord" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img  align="center" alt="Abhishek's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   <span> ┃ </span>
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="center" alt="Abhishek Naidu | Twitter" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="center" alt="Abhishek Naidu | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 	<span> ┃ </span>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="center" alt="Abhishek's LinkedIN" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Abhishek's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 	<span> ┃ </span>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
