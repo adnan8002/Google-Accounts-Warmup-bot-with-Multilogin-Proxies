@@ -121,14 +121,28 @@ pip install -r requirements.txt
 ```
 ### Setting up
 ```sh
-Adding proxies and accounts in Files/proxies and accounts <br />
-#### Proxies Fromat .txt<br />
+#Adding proxies and accounts in Files/proxies and accounts <br />
+#Proxies Fromat .txt
+<>ip:port:username:password<>
+
+#Accounts format .csv
+<>email,password:recovery email<>
+
+#Random question, Random search keywords .txt
+<>one question per line</>
+```
+
+
+<!-- 
+```sh
+#Adding proxies and accounts in Files/proxies and accounts <br />
+#Proxies Fromat .txt
 <code>ip:port:username:password</code>
 #### Accounts format .csv<br />
 <code>email,password:recovery email</code>
 #### Random question, Random search keywords .txt<br />
 <code>one question per line</code>
-```
+``` -->
 <!--
 ## How To Use
 
