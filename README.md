@@ -147,23 +147,23 @@ pip install -r requirements.txt
 ```sh
 - __GoogleBot__
    - __Files__
-     - [google\_acc\_desktop.csv](Files/google_acc_desktop.csv)
-     - [google\_acc\_mobile.csv](Files/google_acc_mobile.csv)
-     - [ips\-zee\_20ip\_test.txt](Files/ips-zee_20ip_test.txt)
-     - [profiles.csv](Files/profiles.csv)
-     - [profiles\_desktop.csv](Files/profiles_desktop.csv)
-     - [profiles\_mobile.csv](Files/profiles_mobile.csv)
-     - [questions.txt](Files/questions.txt)
-     - [warmup\_search\_keywords.txt](Files/warmup_search_keywords.txt)
+     - [google\_acc\_desktop.csv]
+     - [google\_acc\_mobile.csv]
+     - [ips\-zee\_20ip\_test.txt]
+     - [profiles.csv]
+     - [profiles\_desktop.csv]
+     - [profiles\_mobile.csv]
+     - [questions.txt]
+     - [warmup\_search\_keywords.txt]
    - [cli.py](cli.py)
    - __google\_bot__
-     - [FilesHandler.py](google_bot/FilesHandler.py)
-     - [HumanBehaviour.py](google_bot/HumanBehaviour.py)
-     - [MLA.py](google_bot/MLA.py)
-     - [WebDriverOperations.py](google_bot/WebDriverOperations.py)
-     - [configParsing.py](google_bot/configParsing.py)
-     - [login.py](google_bot/login.py)
-   - [requirements.txt](requirements.txt)
+     - [FilesHandler.py]
+     - [HumanBehaviour.py]
+     - [MLA.py]
+     - [WebDriverOperations.py]
+     - [configParsing.py]
+     - [login.py]
+   - [requirements.txt]
 ```
 ## You may also like...
 
