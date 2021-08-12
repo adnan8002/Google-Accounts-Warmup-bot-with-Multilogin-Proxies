@@ -16,10 +16,9 @@
 	<code>@zeeshanahmad4</code>
 </a>
 	<span> ┃ </span>
-	
-  <a href="https://mlaautomation.com/" style="margin-top: 10px;">
+  <a href="https://mlaautomation.com/" style="margin-top: 12px;">
   <img  align="center" alt="Abhishek's Discord" width="30px" src="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/blob/master/Untitled-1.png" />
-	  <code> ">www.mlaautomation.com<</code>
+	  <code>www.mlaautomation.com</code>
 </a>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
