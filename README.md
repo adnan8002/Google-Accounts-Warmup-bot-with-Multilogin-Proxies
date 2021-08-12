@@ -34,11 +34,11 @@
   <a href="https://gologin.com/">
   <img  align="center" alt="Incogniton" width="60px"  src="https://img.shields.io/badge/%20-Gologin-greenwhite.svg?style=flat-square" />
   </a>
-<span> | </span>
+<span> ┃ </span>
   <a href="https://indigobrowser.com/">
   <img  align="center" alt="Incogniton" width="60px"  src="https://img.shields.io/badge/%20-Indigo-purple.svg?style=flat-square" />
   </a>
-<span> | </span>
+<span> ┃ </span>
  <a href="https://us.vmlogin.com/">
   <img  align="center" alt="Incogniton" width="70px"  src="https://img.shields.io/badge/%20-Vmlogin-white.svg?style=flat-square" />
   </a>
