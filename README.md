@@ -60,10 +60,10 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#Prerequisites">How To Use</a> •
-  <a href="#Installation">Download</a> •
-  <a href="#Setting up">Credits</a> •
-  <a href="#You may also like">Related</a> •
+  <a href="#Prerequisites">Prerequisites</a> •
+  <a href="#Installation">Installation</a> •
+  <a href="#Setting up">Setting up</a> •
+  <a href="#You may also like">You may also like</a> •
   <a href="#license">License</a>
 </p>
 
