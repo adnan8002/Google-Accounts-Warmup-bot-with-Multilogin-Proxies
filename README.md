@@ -129,7 +129,7 @@ pip install -r requirements.txt
 <>email,password:recovery email<>
 
 #Random question, Random search keywords .txt
-<>one question per line</>
+<>one question per line<>
 ```
 
 
