@@ -145,12 +145,11 @@ pip install -r requirements.txt
 ```
 ### Project directory
 ```sh
-- __GoogleBot__
+- __Parent_Folder__
    - __Files__
      - [google_acc_desktop.csv]
      - [google_acc_mobile.csv]
      - [proxies.txt]
-     - [profiles.csv]
      - [profiles_desktop.csv]
      - [profiles_mobile.csv]
      - [questions.txt]
