@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://discord.gg/XTW52Kt" style="margin-top: 20px;">
-  <img  align="center" alt="Abhishek's Discord" width="80px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img  align="center" alt="Abhishek's Discord" width="50px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
   <span> | </span>
 <a href="https://twitter.com/abhisheknaiidu">
@@ -32,15 +32,15 @@
   </a>
 <span> | </span>
   <a href="https://gologin.com/">
-  <img  align="center" alt="Incogniton" width="80px"  src="https://img.shields.io/badge/%20-Gologin-greenwhite.svg?style=flat-square" />
+  <img  align="center" alt="Incogniton" width="60px"  src="https://img.shields.io/badge/%20-Gologin-greenwhite.svg?style=flat-square" />
   </a>
 <span> | </span>
   <a href="https://indigobrowser.com/">
-  <img  align="center" alt="Incogniton" width="80px"  src="https://img.shields.io/badge/%20-Indigo-purple.svg?style=flat-square" />
+  <img  align="center" alt="Incogniton" width="60px"  src="https://img.shields.io/badge/%20-Indigo-purple.svg?style=flat-square" />
   </a>
 <span> | </span>
  <a href="https://us.vmlogin.com/">
-  <img  align="center" alt="Incogniton" width="80px"  src="https://img.shields.io/badge/%20-Vmlogin-white.svg?style=flat-square" />
+  <img  align="center" alt="Incogniton" width="70px"  src="https://img.shields.io/badge/%20-Vmlogin-white.svg?style=flat-square" />
   </a>
   
 </div>
