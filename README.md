@@ -51,7 +51,6 @@
   </a>
 
 </div>
-<span> </span>
 <div align="center">
   This bot can be use with other anti-detect browser apps like👆👆👆 
 </div>
@@ -61,10 +60,10 @@
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
+  <a href="#Prerequisites">How To Use</a> •
+  <a href="#Installation">Download</a> •
+  <a href="#Setting up">Credits</a> •
+  <a href="#You may also like">Related</a> •
   <a href="#license">License</a>
 </p>
 
