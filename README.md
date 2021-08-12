@@ -96,6 +96,9 @@
 * Read reviews from google maps lisiting 
 * Ask random question from google listing
 * visits google my bussiness
+* Open Youtube
+* Visit G-mails
+* Visit G-drive
 
 
  ## Prerequisites  
@@ -105,8 +108,6 @@
 * Selenium
 * I would suggest an external RDP but you can run this bot on your local machine too. 
 
-
-### Prerequisites
 
 ### Installation
 1. Clone the repo
@@ -121,10 +122,12 @@ pip install selenium,request
 
 3.Adding proxies and accounts in Files/proxies and accounts <br />
 
-#### Proxies Fromat <br />
+#### Proxies Fromat .txt<br />
 <code>ip:port:username:password</code>
-#### Accounts format <br />
+#### Accounts format .csv<br />
 <code>email,password:recovery email</code>
+#### Random question, Random search keywords .txt<br />
+<code>one question per line</code>
 
 <!--
 ## How To Use
