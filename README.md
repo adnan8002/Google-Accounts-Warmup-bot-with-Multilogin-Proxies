@@ -4,6 +4,8 @@
   <a href="https://discord.gg/XTW52Kt" style="margin-top: 20px;">
   <img  align="center" alt="Abhishek's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 <code> ahmadzee26@gmail.com </code>
+	  <td>Skype<br><img src="https://edent.github.io/SuperTinyIcons/images/svg/skype.svg" width="125" title="Skype" /><br>487 Bytes</td>
+
 	</a>
   <span> ┃ </span>
 	
