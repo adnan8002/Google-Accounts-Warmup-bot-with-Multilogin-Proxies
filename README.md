@@ -51,9 +51,7 @@
   </a>
 
 </div>
-<div align="center">
-	<span>―――</span>
-</div>
+<span> </span>
 <div align="center">
   This bot can be use with other anti-detect browser apps like👆👆👆 
 </div>
