@@ -103,7 +103,7 @@
 
  ## Prerequisites  
 * Multilogin automation plan
-* Residential or mobile quality proxies
+* Residential or mobile proxies
 * Python
 * Selenium
 * I would suggest an external RDP but you can run this bot on your local machine too. 
