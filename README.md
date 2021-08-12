@@ -3,7 +3,8 @@
 <div align="center">
   <a href="https://discord.gg/XTW52Kt" style="margin-top: 20px;">
   <img  align="center" alt="Abhishek's Discord" width="40px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
+<span> ahmadzee26@gmail.com </span>
+	</a>
   <span> ┃ </span>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="center" alt="Abhishek Naidu | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
