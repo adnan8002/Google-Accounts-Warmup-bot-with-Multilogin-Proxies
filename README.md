@@ -98,11 +98,11 @@
 * Random wait between actions
 * Scrolling like humans
 * Search random keywords on google 
-* visit google maps and visit listing
+* Visit google maps and visit listing
 * View photos on google maps listing
 * Read reviews from google maps lisiting 
 * Ask random question from google listing
-* visits google my bussiness
+* Visits google my bussiness
 * Open Youtube
 * Visit G-mails
 * Visit G-drive
