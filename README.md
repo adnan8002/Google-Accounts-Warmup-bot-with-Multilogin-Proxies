@@ -26,11 +26,11 @@
   <a href="https://multilogin.com/">
   <img  align="center" alt="Multilogin" width="80px" src="https://img.shields.io/badge/%20-Multilogin-darkblue.svg?style=flat-square" />
 </a>
-  <span> | </span>
+  <span> ┃ </span>
 <a href="https://incogniton.com/">
   <img  align="center" alt="Incogniton" width="80px"  src="https://img.shields.io/badge/%20-Incogniton-violet.svg?style=flat-square" />
   </a>
-<span> | </span>
+<span> ┃ </span>
   <a href="https://gologin.com/">
   <img  align="center" alt="Incogniton" width="60px"  src="https://img.shields.io/badge/%20-Gologin-greenwhite.svg?style=flat-square" />
   </a>
