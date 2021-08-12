@@ -49,11 +49,13 @@
  <a href="https://us.vmlogin.com/">
   <img  align="center" alt="Incogniton" width="70px"  src="https://img.shields.io/badge/%20-Vmlogin-white.svg?style=flat-square" />
   </a>
-  
+
 </div>
-<br style="line-height: 5px" />
 <div align="center">
-  This bot can be use with other anti-detect browser apps like👆👆👆. 
+	<span> </span>
+</div>
+<div align="center">
+  This bot can be use with other anti-detect browser apps like👆👆👆 
 </div>
 
 <br />
