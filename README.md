@@ -7,7 +7,7 @@
 	</a>
   <span> ┃ </span>
 <a href="https://twitter.com/abhisheknaiidu">
-  <img align="center" alt="Abhishek Naidu | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
+  <img align="center" alt="Abhishek Naidu | Twitter" width="30px" src="https://commons.wikimedia.org/wiki/File:Gmail_Icon.svg" />
 </a>
 	<span> ┃ </span>
 	
