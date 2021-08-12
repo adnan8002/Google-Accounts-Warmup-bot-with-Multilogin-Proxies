@@ -139,49 +139,6 @@ pip install -r requirements.txt
 <>one question per line<>
 ```
 
-
-<!-- 
-```sh
-#Adding proxies and accounts in Files/proxies and accounts <br />
-#Proxies Fromat .txt
-<code>ip:port:username:password</code>
-#### Accounts format .csv<br />
-<code>email,password:recovery email</code>
-#### Random question, Random search keywords .txt<br />
-<code>one question per line</code>
-``` -->
-<!--
-## How To Use
-
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
-
-```bash
-# Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
-
-# Go into the repository
-$ cd electron-markdownify
-
-# Install dependencies
-$ npm install
-
-# Run the app
-$ npm start
-```
- -->
- 
- 
- 
- ## Support
-
-<a href="https://www.buymeacoffee.com/5Zn8Xh3l9" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<p>Or</p> 
-
-<a href="https://www.patreon.com/amitmerchant">
-	<img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
-</a>
-
 ## You may also like...
 
 - [Facebook Automation Multilogin](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies)
