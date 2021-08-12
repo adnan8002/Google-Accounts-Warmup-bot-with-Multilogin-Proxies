@@ -110,18 +110,15 @@
 
 
 ### Installation
-1. Clone the repo
 ```sh
+#Clone the repo
 git clone https://github.com/Zeeshanahmad4/Google-Accounts-Warmup-Automation-bot-with-Multilogin-and-Proxies.git
+
+#Install python and python packages
+pip install -r requirements.txt
 ```
 
-2. Install python and python packages
-```sh
-pip install selenium,request
-```
-
-3.Adding proxies and accounts in Files/proxies and accounts <br />
-
+Adding proxies and accounts in Files/proxies and accounts <br />
 #### Proxies Fromat .txt<br />
 <code>ip:port:username:password</code>
 #### Accounts format .csv<br />
@@ -147,18 +144,6 @@ $ npm install
 # Run the app
 $ npm start
 ```
-
-Note: If you're using Linux Bash for Windows, [see this guide](https://www.howtogeek.com/261575/how-to-run-graphical-linux-desktop-applications-from-windows-10s-bash-shell/) or use `node` from the command prompt.
-
-
-## Download
-
-You can [download](https://github.com/amitmerchant1990/electron-markdownify/releases/tag/v1.2.0) the latest installable version of Markdownify for Windows, macOS and Linux.
-
-  <a href="https://npmjs.org/package/choo">
-  <img src="https://img.shields.io/badge/multilogin-%20-green"
-    alt="Download" />
-</a>
  -->
  
  
