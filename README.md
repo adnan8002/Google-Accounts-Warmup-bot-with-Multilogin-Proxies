@@ -11,9 +11,8 @@
 	<code> zeeshan.ahmad400</code>
 </a>
 	<span> ┃ </span>
-	
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="center" alt="Abhishek's LinkedIN" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="center" alt="Abhishek's LinkedIN" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
 </a>
 	<span> ┃ </span>
 	
