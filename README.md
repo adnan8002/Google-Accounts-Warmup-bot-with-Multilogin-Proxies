@@ -116,8 +116,11 @@ git clone https://github.com/Zeeshanahmad4/Google-Accounts-Warmup-Automation-bot
 
 #Install python and python packages
 pip install -r requirements.txt
-```
 
+#Install and login into muliltogin
+```
+### Setting up
+```sh
 Adding proxies and accounts in Files/proxies and accounts <br />
 #### Proxies Fromat .txt<br />
 <code>ip:port:username:password</code>
@@ -125,7 +128,7 @@ Adding proxies and accounts in Files/proxies and accounts <br />
 <code>email,password:recovery email</code>
 #### Random question, Random search keywords .txt<br />
 <code>one question per line</code>
-
+```
 <!--
 ## How To Use
 
