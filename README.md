@@ -69,7 +69,7 @@
   <a href="#Installation">Installation</a> •
   <a href="#Setting up">Setting up</a> •
   <a href="#You may also like">You may also like</a> •
-  <a href="#license">License</a>
+  <a href="#Project directory">Project directory</a>
 </p>
 
 <div align="center">
@@ -168,4 +168,3 @@ pip install -r requirements.txt
 ## You may also like...
 
 - [Facebook Automation Multilogin](https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies)
-- [Correo](https://github.com/amitmerchant1990/correo) - A menubar/taskbar Gmail App for Windows and macOS
