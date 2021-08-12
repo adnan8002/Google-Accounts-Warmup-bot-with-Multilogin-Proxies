@@ -147,16 +147,16 @@ pip install -r requirements.txt
 ```sh
 - __GoogleBot__
    - __Files__
-     - [google\_acc\_desktop.csv]
-     - [google\_acc\_mobile.csv]
-     - [ips\-zee\_20ip\_test.txt]
+     - [google_acc_desktop.csv]
+     - [google_acc_mobile.csv]
+     - [proxies.txt]
      - [profiles.csv]
-     - [profiles\_desktop.csv]
-     - [profiles\_mobile.csv]
+     - [profiles_desktop.csv]
+     - [profiles_mobile.csv]
      - [questions.txt]
-     - [warmup\_search\_keywords.txt]
-   - [cli.py](cli.py)
-   - __google\_bot__
+     - [warmup_search_keywords.txt]
+   - [cli.py](Run bot from here)
+   - __google_bot__
      - [FilesHandler.py]
      - [HumanBehaviour.py]
      - [MLA.py]
