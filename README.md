@@ -8,17 +8,18 @@
   <span> ┃ </span>
 <a href="https://twitter.com/abhisheknaiidu">
   <img align="center" alt="Abhishek Naidu | Twitter" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
-	<code> zeeshan.ahmad400</code>
+	<code>ahmadzee26@gmail.com</code>
 </a>
 	<span> ┃ </span>
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="center" alt="Abhishek's LinkedIN" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-	<code> zeeshan.ahmad400</code>
+	<code>@zeeshanahmad4</code>
 </a>
 	<span> ┃ </span>
 	
-  <a href="https://discord.gg/XTW52Kt" style="margin-top: 10px;">
-  <img  align="center" alt="Abhishek's Discord" width="40px" src="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/blob/master/Untitled-1.png" />
+  <a href="https://mlaautomation.com/" style="margin-top: 10px;">
+  <img  align="center" alt="Abhishek's Discord" width="30px" src="https://github.com/Zeeshanahmad4/Facebook-Automation-bot-with-Multilogin-and-Proxies/blob/master/Untitled-1.png" />
+	  <code> ">www.mlaautomation.com<</code>
 </a>
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=.Zeeshanahmad4) -->
 <!-- ![](https://api.visitorbadge.io/api/VisitorHit?user=Zeeshanahmad4&repo=Facebook-Automation-bot-with-Multilogin-and-Proxies&countColor=%237B1E7A) -->
